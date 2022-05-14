@@ -1,2 +1,7 @@
-# vCall
-It's a small video calling application based on node, peer js, uuid, socket.io.
+# Node JS Zoom Clone
+
+Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
+
+
+
+
